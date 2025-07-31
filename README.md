@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm VietQuyen</h1>
+<h1 align="center">Hi 👋, I'm Viet Quyen</h1>
 <h3 align="center">A passionate frontend developer and current Software Engineering student from Vietnam, aiming to become a fullstack developer.</h3>
 
 - 🌱 I’m currently learning **Node JS, Microservices, Advance Spring boot and React JS**
