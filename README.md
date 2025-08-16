@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on **PTIT**
 
-- 🌱 I’m currently learning **Node JS, Microservices, Advance Spring boot and React JS**
+- 🔎 I’m currently learning **Node JS, Microservices, Advance Spring boot and React JS**
 
 - 💬 Ask me about **React JS, Node JS, Spring boot**
 
