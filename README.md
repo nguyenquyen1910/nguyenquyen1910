@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Viet Quyen</h1>
 <h3 align="center">A passionate developer and current Software Engineering student from Vietnam, aiming to become a fullstack developer.</h3>
 
- - 🌱 I’m currently working on **PTIT**
+- 🌱 I’m currently working on **PTIT**
 
 - 🌱 I’m currently learning **Node JS, Microservices, Advance Spring boot and React JS**
 
 - 💬 Ask me about **React JS, Node JS, Spring boot**
 
 - 📫 How to reach me **nguyenvietquyen.work1910@gmail.com**
+
+- 🙆‍♂️ You can refer to my portfolio **https://quyennv.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
